@@ -14,6 +14,7 @@ Example: with the `lean-startup` skill installed, asking Claude to "help me plan
 | [`pragmatic-programmer`](skills/pragmatic-programmer/SKILL.md) | *The Pragmatic Programmer*, 20th Anniversary Ed. — Hunt & Thomas | Engineering practice: DRY, orthogonality, coupling, Design by Contract, refactoring, requirements, automation |
 | [`ai-modern-approach`](skills/ai-modern-approach/SKILL.md) | *Artificial Intelligence: A Modern Approach* — Russell & Norvig | AI/algorithm design: PEAS, agent architectures, search (uninformed/A*/minimax), CSPs, Bayesian networks, MDPs |
 | [`machine-learning-mitchell`](skills/machine-learning-mitchell/SKILL.md) | *Machine Learning* — Tom M. Mitchell | ML fundamentals: T/P/E framing, bias-variance, evaluation methodology, MAP/naive Bayes, PAC learning, algorithm selection |
+| [`c-programming-language`](skills/c-programming-language/SKILL.md) | *The C Programming Language*, 2nd Ed. — Kernighan & Ritchie | C code: pointer arithmetic, declaration reading, manual memory ownership, undefined behavior, preprocessor/linkage |
 
 More skills (product management, programming languages, design patterns, system architecture, data engineering, etc.) get added over time — see [Contributing](#contributing).
 
