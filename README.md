@@ -15,6 +15,7 @@ Example: with the `lean-startup` skill installed, asking Claude to "help me plan
 | [`ai-modern-approach`](skills/ai-modern-approach/SKILL.md) | *Artificial Intelligence: A Modern Approach* — Russell & Norvig | AI/algorithm design: PEAS, agent architectures, search (uninformed/A*/minimax), CSPs, Bayesian networks, MDPs |
 | [`machine-learning-mitchell`](skills/machine-learning-mitchell/SKILL.md) | *Machine Learning* — Tom M. Mitchell | ML fundamentals: T/P/E framing, bias-variance, evaluation methodology, MAP/naive Bayes, PAC learning, algorithm selection |
 | [`c-programming-language`](skills/c-programming-language/SKILL.md) | *The C Programming Language*, 2nd Ed. — Kernighan & Ritchie | C code: pointer arithmetic, declaration reading, manual memory ownership, undefined behavior, preprocessor/linkage |
+| [`automate-boring-stuff`](skills/automate-boring-stuff/SKILL.md) | *Automate the Boring Stuff with Python* — Al Sweigart | Task automation: file ops, CSV/Excel/PDF handling, web scraping, scheduling, safe-automation habits |
 
 More skills (product management, programming languages, design patterns, system architecture, data engineering, etc.) get added over time — see [Contributing](#contributing).
 
