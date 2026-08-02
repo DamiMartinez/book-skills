@@ -9,6 +9,7 @@ Example: with the `lean-startup` skill installed, asking Claude to "help me plan
 | Skill | Book | Topic |
 |---|---|---|
 | [`lean-startup`](skills/lean-startup/SKILL.md) | *The Lean Startup* — Eric Ries | Product/startup validation: MVP, Build-Measure-Learn, validated learning, pivot vs. persevere |
+| [`high-output-management`](skills/high-output-management/SKILL.md) | *High Output Management* — Andrew S. Grove | Management: managerial leverage, task-relevant maturity, one-on-ones, indicators, decision-making |
 
 More skills (product management, programming languages, design patterns, system architecture, data engineering, etc.) get added over time — see [Contributing](#contributing).
 
