@@ -12,6 +12,7 @@ Example: with the `lean-startup` skill installed, asking Claude to "help me plan
 | [`high-output-management`](skills/high-output-management/SKILL.md) | *High Output Management* — Andrew S. Grove | Management: managerial leverage, task-relevant maturity, one-on-ones, indicators, decision-making |
 | [`hard-thing-about-hard-things`](skills/hard-thing-about-hard-things/SKILL.md) | *The Hard Thing About Hard Things* — Ben Horowitz | Leadership under pressure: wartime/peacetime CEO, no-easy-answers decisions, firing/layoffs, Law of Crappy People |
 | [`pragmatic-programmer`](skills/pragmatic-programmer/SKILL.md) | *The Pragmatic Programmer*, 20th Anniversary Ed. — Hunt & Thomas | Engineering practice: DRY, orthogonality, coupling, Design by Contract, refactoring, requirements, automation |
+| [`ai-modern-approach`](skills/ai-modern-approach/SKILL.md) | *Artificial Intelligence: A Modern Approach* — Russell & Norvig | AI/algorithm design: PEAS, agent architectures, search (uninformed/A*/minimax), CSPs, Bayesian networks, MDPs |
 
 More skills (product management, programming languages, design patterns, system architecture, data engineering, etc.) get added over time — see [Contributing](#contributing).
 
