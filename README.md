@@ -9,6 +9,7 @@ Example: with the `lean-startup` skill installed, asking Claude to "help me plan
 | Skill | Book | Topic |
 |---|---|---|
 | [`lean-startup`](skills/lean-startup/SKILL.md) | *The Lean Startup* — Eric Ries | Product/startup validation: MVP, Build-Measure-Learn, validated learning, pivot vs. persevere |
+| [`innovators-dilemma`](skills/innovators-dilemma/SKILL.md) | *The Innovator's Dilemma* — Clayton M. Christensen | Innovation strategy: sustaining vs. disruptive innovation, value networks, performance oversupply, resource allocation, discovery-driven planning |
 | [`high-output-management`](skills/high-output-management/SKILL.md) | *High Output Management* — Andrew S. Grove | Management: managerial leverage, task-relevant maturity, one-on-ones, indicators, decision-making |
 | [`hard-thing-about-hard-things`](skills/hard-thing-about-hard-things/SKILL.md) | *The Hard Thing About Hard Things* — Ben Horowitz | Leadership under pressure: wartime/peacetime CEO, no-easy-answers decisions, firing/layoffs, Law of Crappy People |
 | [`pragmatic-programmer`](skills/pragmatic-programmer/SKILL.md) | *The Pragmatic Programmer*, 20th Anniversary Ed. — Hunt & Thomas | Engineering practice: DRY, orthogonality, coupling, Design by Contract, refactoring, requirements, automation |
